@@ -8,9 +8,27 @@
     },
     {
       "id": 2,
-      "instruction_text": "What's your favorite number?",
-      "answer_options": ["1", "2", "3", "4"],
-      "answer": "4"
+      "instruction_text": "Who was the first man to walk on the Moon?",
+      "answer_options": ["Lance Armstrong", "Buzz Aldrin", "Neil Armstrong", "Donald Trump"],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "id": 3,
+      "instruction_text": "Where did Napoleon die?",
+      "answer_options": ["Martinique", "Saint Helena", "Guadeloupe", "Greenland"],
+      "answer": "Saint Helena"
+    },
+    {
+      "id": 4,
+      "instruction_text": "What is the capital of Morocco?",
+      "answer_options": ["Rabat", "Marrakesh", "Agadir", "Casablanca"],
+      "answer": "Rabat"
+    },
+    {
+      "id": 5,
+      "instruction_text": "Who invented the Cinematograph?",
+      "answer_options": ["Thomas Edison", "Lumière Brothers", "Nikola Tesla", "Leonardo da Vinci"],
+      "answer": "Lumière Brothers"
     }
   ]
 }
